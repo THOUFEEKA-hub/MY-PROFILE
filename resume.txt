@@ -1,0 +1,51 @@
+THOUFEEKA FATHINA .A
+
+Email: thoufeekaa.ug.25.cs@francisxavier.ac.in  
+LinkedIn: https://www.linkedin.com/in/thoufeeka-fathina-633508389  
+GitHub: https://github.com/THOUFEEKA-hub  
+
+
+PROFILE  
+Aspiring Prompt Engineer and B.E Computer Science Engineering student with a strong foundation in Python, frontend development, and problem solving. Interested in working with AI tools, designing effective prompts, and building responsive web applications. Continuously improving technical skills through projects and coding practice.
+
+
+EDUCATION  
+Francis Xavier Engineering College  
+B.E Computer Science Engineering (2025 - 2029)  
+CGPA: 8.3  
+
+
+SKILLS  
+Prompt Engineering (AI tools, structured prompts)  
+Python, C  
+HTML, CSS, JavaScript  
+Git, GitHub  
+Problem Solving  
+
+
+PROJECTS  
+Calculator
+Live Demo: https://thoufeeka-hub.github.io/Calculator-Creation/
+Code: https://github.com/THOUFEEKA-hub/Calculator-Creation
+
+Game Hub Website  
+Live Demo: https://game-hub-five-orcin.vercel.app/  
+Code: https://github.com/THOUFEEKA-hub/game-hub  
+
+       
+CERTIFICATES  
+- Coding Foundations - Sololearn  
+- Java Programming - Oracle Academy  
+- Cybersecurity Analyst Job Simulation - Forage  
+- Prompt Engineering for Everyone - Cognitive  
+ 
+
+
+ACHIEVEMENTS  
+- Completed C Workshop  
+- Participated in Tamizhan Skills  
+
+
+CODING PRACTICE  
+LeetCode - 37 Problems Solved  
+Profile: https://leetcode.com/u/Thoufeeka/
